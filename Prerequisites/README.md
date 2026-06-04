@@ -1,4 +1,4 @@
-# Project 1: Microsoft Entra ID, IAM provisioning, technical documentation
+# Prerequisites: Microsoft Entra ID, IAM provisioning, technical documentation
 
 
 ## 1\.Prerequisites
